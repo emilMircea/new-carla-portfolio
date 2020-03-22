@@ -1,6 +1,6 @@
 ## Todos ✅
 
-[] Find Gatsby solution for translations
+❎ Find Gatsby solution for translations
 
 ## 🧐 What's inside?
 

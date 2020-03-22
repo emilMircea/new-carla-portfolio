@@ -36,7 +36,7 @@ Header.propTypes = {
 }
 
 Header.defaultProps = {
-  siteTitle: ``,
+  siteTitle: `Portfolio Carla Lluis Ganella`,
 }
 
 export default Header
